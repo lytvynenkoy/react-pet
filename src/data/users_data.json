@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+      "name": "Yurii",
+      "lastName": "Lytvynenko",
+      "position": "Front-end Developer",
+      "email": "lytvynenko.space@gmail.com",
+      "phone": "+38(097) 944 2580",
+      "birthDate": "2003-05-03",
+      "location": {
+        "city": "Lviv",
+        "country": "Ukraine"
+      },
+      "social": {
+        "facebook": "",
+        "github": "https://github.com/lytvynenkoy",
+        "instagram": "",
+        "telegram": "lytvynenko_y",
+        "viber": ""
+      },
+      "projects": {
+        "projectAlpha": {
+          "tags": ["HTML", "CSS", "JavaScript"],
+          "about": "This project is a simple web application developed using HTML, CSS, and JavaScript.",
+          "features": "Responsive design, Interactive UI, Fast loading",
+          "images": [
+            "https://example.com/project_alpha_1.jpg",
+            "https://example.com/project_alpha_2.jpg"
+          ]
+        }
+      }
+    },
+    {
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+      "name": "John",
+      "lastName": "Doe",
+      "position": "Front-end Developer",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "birthDate": "1990-01-01",
+      "location": {
+        "city": "New York",
+        "country": "USA"
+      },
+      "social": {
+        "facebook": "https://facebook.com/johndoe",
+        "github": "https://github.com/johndoe",
+        "instagram": "https://instagram.com/johndoe",
+        "telegram": "johndoe",
+        "viber": "+1234567890"
+      },
+      "projects": {
+        "projectAlpha": {
+          "tags": ["HTML", "CSS", "JavaScript"],
+          "about": "This project is a simple web application developed using HTML, CSS, and JavaScript.",
+          "features": "Responsive design, Interactive UI, Fast loading",
+          "images": [
+            "https://example.com/project_alpha_1.jpg",
+            "https://example.com/project_alpha_2.jpg"
+          ]
+        }
+      }
+    },
+    {
+      "avatar": "https://example.com/avatar2.jpg",
+      "name": "Jane",
+      "lastName": "Smith",
+      "position": "Front-end Developer",
+      "email": "jane.smith@example.com",
+      "phone": "+0987654321",
+      "birthDate": "1985-05-15",
+      "location": {
+        "city": "Los Angeles",
+        "country": "USA"
+      },
+      "social": {
+        "facebook": "https://facebook.com/janesmith",
+        "github": "https://github.com/janesmith",
+        "instagram": "https://instagram.com/janesmith",
+        "telegram": "janesmith",
+        "viber": "+0987654321"
+      },
+      "projects": {
+        "projectBeta": {
+          "tags": ["React", "Node.js", "MongoDB"],
+          "about": "This project is a full-stack application using React for the front-end, Node.js for the back-end, and MongoDB for the database.",
+          "features": "Real-time updates, Authentication, RESTful API",
+          "images": [
+            "https://example.com/project_beta_1.jpg",
+            "https://example.com/project_beta_2.jpg"
+          ]
+        }
+      }
+    }
+  ]
+}
