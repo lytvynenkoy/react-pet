@@ -1,0 +1,83 @@
+/*ASIDE COMPONENT START*/
+
+aside {
+    padding: 80px 30px;
+
+    background: rgba(29, 29, 30, 0.7);
+    backdrop-filter: blur(10px);
+    border: #D0C196 1px solid;
+    border-radius: 24px;
+}
+
+/* PROFILE COMPONENT START*/
+
+.profile-image {
+    width: 290px;
+    height: 290px;
+
+    border-radius: 1000px;
+}
+
+.paragraph-big {
+    font-size: 20px;
+    color: #fff;
+}
+/* PROFILE COMPONENT END*/
+
+
+/*USER INFO COMPONENT START*/
+
+address {
+    margin-top: 30px;
+    font-style: normal;
+}
+
+.user-info {
+    text-decoration: none;
+}
+
+.divider {
+    height: 1px;
+    width: 100%;
+
+    background: #D0C196;
+    border-radius: 1000px;
+}
+
+.user-info-subtitle {
+    font-size: 10px;
+    color: #D0C196;
+}
+/*USER INFO COMPONENT END*/
+
+
+/* ASIDE SOCIAL MEDIA START */
+
+.social-media-links {
+    margin-top: 60px;
+
+    display: flex;
+    gap: 15px;
+}
+
+.social-media-link  {
+   cursor: pointer;
+}
+
+.social-media-link svg {
+    width: 40px;
+    height: 40px;
+    transition: all 0.3s ease-in-out;
+}
+
+.social-media-link path {
+    transition: all 0.3s ease-in-out;
+}
+
+.social-media-link:hover path {
+    fill: #fff;
+}
+
+/* ASIDE SOCIAL MEDIA END */
+
+/*ASIDE COMPONENT END*/

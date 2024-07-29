@@ -2,6 +2,7 @@ import React from 'react';
 import SocialMediaComponent from "./socail-media/SocialMediaComponent";
 import UserInfoComponent from "./userInfo/UserInfoComponent";
 import ProfileComponent from "./profile/ProfileComponent";
+import "../../styles/Aside.css"
 
 const Aside = () => {
     return (

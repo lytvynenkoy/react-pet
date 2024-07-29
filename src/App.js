@@ -1,17 +1,13 @@
-import Aside from "./components/aside/Aside";
+import Main from "./components/Main";
+import Footer from "./components/Footer";
 import React from "react";
-import { UserProvider } from "./context/UserContextComponent";
-
 
 const App = () => {
     return (
-        <UserProvider>
-            <main>
-                <div className="container">
-                    <Aside />
-                </div>
-            </main>
-        </UserProvider>
+        <>
+            <Main />
+            <Footer />
+        </>
     );
 }
 

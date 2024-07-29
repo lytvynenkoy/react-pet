@@ -1,0 +1,21 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+
+.floor-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 15px 0;
+
+    border-top: 1px solid #D0C196;
+}
+
+.floor-wrapper a {
+    text-decoration: none;
+}
